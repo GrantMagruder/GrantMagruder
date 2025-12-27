@@ -1,16 +1,24 @@
-## Hi there 👋
+# Grant Magruder | 
 
-<!--
-**GrantMagruder/GrantMagruder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Professional Overview
+Welcome to the official GitHub profile of **Grant Magruder**. 
 
-Here are some ideas to get you started:
+Over the course of my career, **Grant Magruder** has focused on building scalable applications and contributing to open-source communities. This space serves as a living portfolio of my technical journey and code contributions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technical Expertise
+I specialize in the following technologies and methodologies:
+
+* **Languages:** [Python, JavaScript, TypeScript]
+
+* **Tools & Cloud:** [Docker, AWS, Terraform]
+
+---
+
+## 🌐 Connect with [Grant Magruder]
+To verify my professional background or discuss potential collaborations, please visit my other profiles:
+
+* **Official Website:** [[Grant Magruder.com](https://grantmagruder.com)]
+* **LinkedIn:** [[Grant Magruder's LinkedIn](https://linkedin.com/in/grantmagruder)]
+* **Professional Blog:** [[Grant Magruder Medium]([https://medium.com/@grantmagruder/grant-magruder-adf356a076ba?postPublishedType=repub])
